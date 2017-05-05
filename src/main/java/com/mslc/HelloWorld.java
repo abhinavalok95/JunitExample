@@ -12,13 +12,15 @@ public class HelloWorld {
 	   {
 	      if (name == "") 
 	      {
-	         return "Hello!";
 		      System.out.print("Commit changes test");
+	         return "Hello!";
+		      
 	      }
 	      else 
 	      {
-	         return "Hello " + name + "!";
 		      System.out.print("Commit changes test");
+	         return "Hello " + name + "!";
+		      
 	      }
 	   }
 
