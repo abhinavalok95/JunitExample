@@ -13,10 +13,12 @@ public class HelloWorld {
 	      if (name == "") 
 	      {
 	         return "Hello!";
+		      System.out.print("Commit changes test");
 	      }
 	      else 
 	      {
 	         return "Hello " + name + "!";
+		      System.out.print("Commit changes test");
 	      }
 	   }
 
@@ -24,6 +26,6 @@ public class HelloWorld {
 	   {
 	      this.name = name;
 	   }
-	System.out.print("Commit changes test");
+	
 
 }
