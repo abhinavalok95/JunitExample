@@ -24,5 +24,6 @@ public class HelloWorld {
 	   {
 	      this.name = name;
 	   }
+	System.out.print("Commit changes test");
 
 }
